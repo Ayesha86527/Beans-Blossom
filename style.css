@@ -284,7 +284,7 @@ footer p {
   }
 
   .Intro{
-    padding-bottom: 4rem;
+    padding-bottom: 5rem;
   }
 
   .heading{
@@ -307,9 +307,22 @@ footer p {
   .Halay img, .Haroon img {
     margin: 0;
   }
+
+  .contact p{
+    font-size: 0.5625rem;
+  }
+
+  .navbar a:hover h2 {
+    text-decoration: underline;
 }
 
+  footer p {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 0.5625rem;
+}
 
+}
 
 
 
