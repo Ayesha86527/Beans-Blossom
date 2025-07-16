@@ -177,7 +177,6 @@ html {
     font-family: 'Lato', sans-serif;
     font-size: 1.125rem;
     font-weight: bold;
-    text-align: center;
     word-spacing: 0.625rem;
     width: 31.25rem;
 
@@ -305,7 +304,7 @@ footer p {
     text-align: center;
   }
 
-  .Halay img, .Haroon img {
+  .Halay img, .Haroon img, .contact p {
     margin: 0;
   }
 
@@ -313,7 +312,7 @@ footer p {
     text-decoration: underline;
 }
 
-  footer p {
+  .footer p {
     padding-left: 1rem;
     padding-right: 1rem;
     font-size: 0.5625rem;
