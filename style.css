@@ -284,7 +284,7 @@ footer p {
   }
 
   .Intro{
-    padding-bottom: 5rem;
+    padding-bottom: 6rem;
   }
 
   .heading{
@@ -309,9 +309,9 @@ footer p {
   }
 
   .contact p{
-    font-size: 0.8rem;
-    padding-left: 0.0625rem;
-    padding-right: 0.0625rem;
+    font-weight: bold;
+    word-spacing: 0.25rem;
+    width: 10.625rem;
   }
 
   .navbar a:hover h2 {
