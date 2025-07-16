@@ -307,7 +307,7 @@ footer p {
   }
 
   .Halay img, .Haroon img, .contact p {
-    margin: 0;
+    margin: 0 auto;
   }
 
   .navbar a:hover{
