@@ -310,6 +310,8 @@ footer p {
 
   .contact p{
     font-size: 0.8rem;
+    padding-left: 0.0625rem;
+    padding-right: 0.0625rem;
   }
 
   .navbar a:hover h2 {
